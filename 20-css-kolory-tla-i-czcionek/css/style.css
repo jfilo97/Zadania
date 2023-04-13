@@ -1,6 +1,27 @@
 body {
 	background-color: #e66095;
 }
-ol {
-	list-style-type: decimal;
-}
+ol li:nth-child(1) {
+	color: red;
+	background-color: yellow;
+  }
+  
+  ol li:nth-child(2) {
+	color: green;
+	background-color: pink;
+  }
+  
+  ol li:nth-child(3) {
+	color: blue;
+	background-color: orange;
+  }
+  
+  ol li:nth-child(4) {
+	color: purple;
+	background-color: lightblue;
+  }
+  
+  ol li:nth-child(5) {
+	color: yellow;
+	background-color: gray;
+  }

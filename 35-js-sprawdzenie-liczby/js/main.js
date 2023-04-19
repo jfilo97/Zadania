@@ -5,3 +5,5 @@ function checkNumber(n) {
     console.log("Liczba nie znajduje się w przedziale");
   }
 }
+
+checkNumber(100)

@@ -1,0 +1,19 @@
+header{
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 20px 10px;
+    background-color: lightcoral;
+}
+section{
+    text-align: center;
+    padding: 20px 10px;
+    background-color: green;
+    margin-bottom: 30px;
+}
+.nav-item{
+    display:inline-block
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}

@@ -1,0 +1,12 @@
+#pracownicy > div[id^='uczen'] {
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  #pracownicy > div[id^='uczen'].zielony {
+    background-color: lightgreen;
+  }
+  
+  #pracownicy > div[id^='uczen'].czerwony {
+    background-color: red;
+  }

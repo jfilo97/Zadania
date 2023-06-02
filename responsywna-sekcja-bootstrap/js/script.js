@@ -1,0 +1,16 @@
+.light-font {
+    font-weight: lighter;
+}
+
+.icon-wrapper {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.icon-wrapper i {
+    line-height: 1;
+}

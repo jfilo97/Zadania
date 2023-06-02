@@ -1,0 +1,14 @@
+.icons{
+    font-size: 4rem;
+    color: #E38F42;
+}
+
+.icons:hover{
+    cursor: pointer;
+    color: lightblue;
+}   
+
+
+h2{
+    color: gray;
+}

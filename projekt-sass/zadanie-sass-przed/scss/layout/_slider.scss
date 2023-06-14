@@ -52,14 +52,17 @@
 		}
 
 		h1 {
-			font-size: $base-font-size + 32;
+			font-size: $base-font-size + 22;
 			margin-top: $baseline;
 			margin-bottom: $baseline;
+			letter-spacing: 4px;
+			text-transform: $text-transform-base;
 		}
 
 		p {
-			font-size: $base-font-size + 4;
+			font-size: $base-font-size + 6;
 			margin-bottom: $baseline;
+			text-transform: $text-transform-base;
 		}
 
 		.btn-primary {

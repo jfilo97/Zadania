@@ -4,12 +4,12 @@
 hr {
     border-color: $color-border;
     border-width: 1px;
-    max-width: 100%;
+    width: 150px;
     margin: $baseline auto;
 }
 
 hr.divider-light-dark {
-    max-width: $baseline + 126;
+    width: 150px;
     border-color: $color-primary;
     border-width: 3px;
 }
